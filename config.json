@@ -6,11 +6,9 @@
   "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
    "all"
-  ],
-  "twitter": "myllenalvesl",
-  "linkedin": "myllena-alves-257544144"
+  ]
  }
 ]
